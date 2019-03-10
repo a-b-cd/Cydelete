@@ -19,4 +19,4 @@ Warning :
 
 Issues :
 
-- SpringBoard return : You're ot allowed to uninstall at this time try again later.
+- SpringBoard return : You're not allowed to uninstall this application at this time try again later.
