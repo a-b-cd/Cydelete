@@ -261,7 +261,7 @@ static BOOL ProtectPangu = true;
 			return true;
 		}
 	}
-	else if( (ProtectPangu) && [[[SBAppIcon application] iconIdentifier] isEqualToString:@"com.wanmei.mini.condorpp-532-8"]){
+	else if( (ProtectPangu) && [[[SBAppIcon application] iconIdentifier] isEqualToString:@"science.xnu.undecimus"]){
 		return false;
 	}
 	else
